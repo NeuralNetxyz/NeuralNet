@@ -3,8 +3,8 @@
 <div align="center">
   <img src="assets/images/logo.png" alt="NeuralNet Logo" width="200"/>
 
-  [![Website](https://img.shields.io/badge/Website-neuralnet.fit-blue)](https://www.neuralnet.fit/market)
-  [![Twitter](https://img.shields.io/badge/Twitter-@NeuralNet__fit-blue)](https://x.com/NeuralNet_fit)
+  [![Website](https://img.shields.io/badge/Website-neuralnet.fit-blue)](https://www.neuralnet.fit/)
+  [![Twitter](https://img.shields.io/badge/Twitter-@NeuralNet__fit-blue)](https://x.com/NeuralNet_xyz)
   [![GitHub](https://img.shields.io/badge/GitHub-NeuralNetxyz-blue)](https://github.com/NeuralNetxyz/NeuralNet)
 </div>
 
